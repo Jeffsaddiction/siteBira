@@ -71,6 +71,7 @@
 
 }
 
+
 .content .list-menu li a:hover {
     background-color: #8b8b8b33;
     border-bottom: 4px solid #ff9900 ;
@@ -188,7 +189,7 @@
 .itens-cardapio h3 {
     font-family: "brush";
     font-size: 2rem;
-    text-shadow: 1px 5px 1px rgba(255, 106, 0, 0.336);
+    text-shadow: 1px 1px 5px rgba(255, 106, 0, 0.336);
 }
 
 .itens-cardapio h4 {
