@@ -145,6 +145,8 @@
     margin-top: 2rem;
 }
 
+/* cardapio */
+
 .cardapio {
     background-color: #ef7208;
     width: 100vw;
@@ -153,12 +155,14 @@
     align-items: center;
     justify-content: center;
     padding-top: 1em;
+    
 }
 
 .cardapio h2 {
     font-size: 6rem;
     font-family: "Meie Script", cursive;
     font-style: normal;
+    
 }
 
 .itens-cardapio{
@@ -170,10 +174,13 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
+    
 }
 
 .marmitas {
     background-color: #e0a263;
+    border-radius: 10px;
+   
 }
 
 .itens-cardapio .info {
@@ -184,6 +191,7 @@
     align-items: center;
     justify-content: center;
     padding: 4rem;
+    border-radius: 10px;
 }
 
 .itens-cardapio h3 {
